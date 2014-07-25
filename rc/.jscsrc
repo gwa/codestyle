@@ -89,6 +89,7 @@
     "!==",
     "&",
     "|",
+    "^"
   ],
   "disallowMultipleLineStrings": true,
   "disallowMultipleLineBreaks": true,
